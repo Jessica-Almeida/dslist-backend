@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-DSList é um sistema de coleções de jogos construído durante o treinamento gratuito: **Intensivão Java Spring**, evento organizado pelo [DevSuperior](https://devsuperior.com "Site - DevSuperior").
+DSList é um sistema de coleções de jogos construído durante o treinamento gratuito: **Intensivão Java Spring**, evento organizado pelo [DevSuperior](https://devsuperior.com.br "Site - DevSuperior").
 
 A aplicação DSList é um projeto backend de API que se destaca pelo uso de uma arquitetura em camadas, seguindo as melhores práticas de desenvolvimento. Com recursos de listagem com detalhes resumidos, apresentação completa dos dados dos jogos e a possibilidade de reposicionar os jogos na coleção.
 
