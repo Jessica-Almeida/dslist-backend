@@ -20,11 +20,11 @@ https://dslist-production-3086.up.railway.app
 
 
 # JSON
-![games](https://github.com/Jessica-Almeida/imgs-dslist/blob/main/games.png?raw=true)
-![games by id](https://github.com/Jessica-Almeida/imgs-dslist/blob/main/games-by-id.png?raw=true)
-![lists](https://github.com/Jessica-Almeida/imgs-dslist/blob/main/lists.png?raw=true)
-![games by list](https://github.com/Jessica-Almeida/imgs-dslist/blob/main/games-by-list.png?raw=true)
-![list replacement](https://github.com/Jessica-Almeida/imgs-dslist/blob/main/list-replacement.png?raw=true)
+![games](./src/main/resources//static/imgs/games.png)
+![games by id](./src/main/resources//static/imgs/games-by-id.png)
+![lists](./src/main/resources//static/imgs/lists.png)
+![games by list](./src/main/resources/static/imgs/games-by-list.png)
+![list replacement](./src/main/resources/static/imgs/list-replacement.png)
 
 # Modelo conceitual
 
